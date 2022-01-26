@@ -2,6 +2,7 @@
 Libraries used.
 numpy : used for numerical python.
 sklearn.datasets : 
+pandas : https://pandas.pydata.org/docs/getting_started/overview.html
 variable name breats_cancer = sklear.datasets.load_breast_cancer(). This is predefined function. 
 https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_breast_cancer.html
 Print(breats_cancer)- this loads all the data with  0 and 1 values. 0 and 1 stands for 'malignant', 'benign'
