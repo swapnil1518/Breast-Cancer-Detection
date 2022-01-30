@@ -1,6 +1,6 @@
 # Breast-Cancer-Detection Using Logistic regression EXPLANATION
 Libraries used.
-numpy : used for numerical python.
+Numpy : Used for numerical python. It is used to generate some random numbers.
 sklearn.datasets : 
 sklearn for importing LogisticRegression
 pandas : https://pandas.pydata.org/docs/getting_started/overview.html
